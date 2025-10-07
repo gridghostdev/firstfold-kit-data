@@ -26,14 +26,6 @@
     "category": "Beauty",
     "previewUrl": "/sites/blushline-preview/index.html"
   },
-  "deconstructedaudio": {
-    "status": "available",
-    "name": "Deconstructed Audio",
-    "slug": "deconstructedaudio",
-    "price": 1200,
-    "tier": "essential",
-    "category": "Creative"
-  },
   "dmvfacility": {
     "status": "available",
     "name": "DMV Facility",
@@ -150,14 +142,5 @@
     "tier": "comprehensive-high",
     "category": "Service",
     "previewUrl": "/sites/virtual-assistant-preview/index.html"
-  },
-  "matrixwell": {
-  "status": "sold",
-  "name": "MatrixWell",
-  "slug": "matrixwell",
-  "price": 3400,
-  "tier": "premium",
-  "category": "Technology",
-  "previewUrl": "/sites/matrixwell-collective-preview/index.html"
-}
+  }
 }
