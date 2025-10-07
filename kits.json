@@ -151,4 +151,13 @@
     "category": "Service",
     "previewUrl": "/sites/virtual-assistant-preview/index.html"
   }
+  "matrixwell": {
+  "status": "available",
+  "name": "MatrixWell",
+  "slug": "matrixwell",
+  "price": 3400,
+  "tier": "premium",
+  "category": "Technology",
+  "previewUrl": "/sites/matrixwell-collective-preview/index.html"
+}
 }
