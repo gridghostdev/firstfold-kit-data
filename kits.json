@@ -1,0 +1,154 @@
+{
+  "apex": {
+    "status": "available",
+    "name": "Apex Properties",
+    "slug": "apex",
+    "price": 2400,
+    "tier": "comprehensive",
+    "category": "Real Estate",
+    "previewUrl": "/sites/apexproperties-preview/index.html"
+  },
+  "barbershop": {
+    "status": "available",
+    "name": "The Civic Shave",
+    "slug": "barbershop",
+    "price": 1900,
+    "tier": "comprehensive",
+    "category": "Retail",
+    "previewUrl": "/sites/barber-shop-preview/index.html"
+  },
+  "blushline": {
+    "status": "available",
+    "name": "Blushline",
+    "slug": "blushline",
+    "price": 2100,
+    "tier": "comprehensive",
+    "category": "Beauty",
+    "previewUrl": "/sites/blushline-preview/index.html"
+  },
+  "deconstructedaudio": {
+    "status": "available",
+    "name": "Deconstructed Audio",
+    "slug": "deconstructedaudio",
+    "price": 1200,
+    "tier": "essential",
+    "category": "Creative"
+  },
+  "dmvfacility": {
+    "status": "available",
+    "name": "DMV Facility",
+    "slug": "dmvfacility",
+    "price": 1000,
+    "tier": "essential",
+    "category": "Service",
+    "previewUrl": "/sites/dmvfacilitysolutions-preview/index.html"
+  },
+  "elementalarchitecture": {
+    "status": "available",
+    "name": "Elemental Architecture",
+    "slug": "elementalarchitecture",
+    "price": 2400,
+    "tier": "comprehensive-high",
+    "category": "Architecture",
+    "previewUrl": "/sites/elemental-architecture-preview/index.html"
+  },
+  "frameflow": {
+    "status": "available",
+    "name": "FrameFlow",
+    "slug": "frameflow",
+    "price": 2200,
+    "tier": "comprehensive-high",
+    "category": "Creative",
+    "previewUrl": "/sites/frameflow-studio-preview/index.html"
+  },
+  "holisticwellness": {
+    "status": "available",
+    "name": "Holistic Wellness Coach",
+    "slug": "holisticwellness",
+    "price": 2000,
+    "tier": "comprehensive",
+    "category": "Health",
+    "previewUrl": "/sites/vitaalign-preview/index.html"
+  },
+  "matrixwell": {
+    "status": "available",
+    "name": "MatrixWell",
+    "slug": "matrixwell",
+    "price": 3400,
+    "tier": "premium",
+    "category": "Technology",
+    "previewUrl": "/sites/matrixwell-collective-preview/index.html"
+  },
+  "moonandbone": {
+    "status": "available",
+    "name": "Moon and Bone",
+    "slug": "moonandbone",
+    "price": 1900,
+    "tier": "comprehensive",
+    "category": "Service",
+    "previewUrl": "/sites/moon+bone-preview/index.html"
+  },
+  "mystichaven": {
+    "status": "available",
+    "name": "Mystic Haven",
+    "slug": "mystichaven",
+    "price": 1100,
+    "tier": "essential",
+    "category": "Retail",
+    "previewUrl": "/sites/mystichaven-preview/index.html"
+  },
+  "personaltrainer": {
+    "status": "available",
+    "name": "Momentum Training",
+    "slug": "personaltrainer",
+    "price": 2900,
+    "tier": "premium",
+    "category": "Fitness",
+    "previewUrl": "/sites/personal-trainer-preview/index.html"
+  },
+  "photographer": {
+    "status": "available",
+    "name": "Atlas & Anchor Photography",
+    "slug": "photographer",
+    "price": 2200,
+    "tier": "comprehensive-high",
+    "category": "Creative",
+    "previewUrl": "/sites/photographer-portfolio-preview/index.html"
+  },
+  "quorumprotocol": {
+    "status": "available",
+    "name": "Quorum Protocol",
+    "slug": "quorumprotocol",
+    "price": 2600,
+    "tier": "comprehensive-high",
+    "category": "Technology",
+    "previewUrl": "/sites/the_quorum_protocol-preview/index.html"
+  },
+  "rootandvessel": {
+    "status": "available",
+    "name": "Root and Vessel",
+    "slug": "rootandvessel",
+    "price": 900,
+    "tier": "essential",
+    "category": "Retail",
+    "previewUrl": "/sites/root_and_vessel-preview/index.html"
+  },
+  "viridiangallery": {
+    "status": "available",
+    "name": "Veridian Gallery",
+    "slug": "viridiangallery",
+    "price": 2200,
+    "tier": "comprehensive-high",
+    "category": "Art",
+    "previewUrl": "/sites/veridian_gallery-preview/index.html"
+  },
+  "waveformva": {
+    "status": "available",
+    "name": "Waveform VA",
+    "slug": "waveformva",
+    "price": 2500,
+    "tier": "comprehensive-high",
+    "category": "Service",
+    "previewUrl": "/sites/virtual-assistant-preview/index.html"
+  }
+}
